@@ -28,3 +28,6 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 ( ᵔ ᴥ ᵔ )
+
+## se debe instalar 
+npm install request --save
